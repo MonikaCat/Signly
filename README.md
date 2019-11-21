@@ -54,7 +54,7 @@ The system achieved high accuracy of 84.80 %. Several letters including A, D, E,
 
 ## Authors
 
-* **Monika Pusz** 
+* **Monika Pusz -** [www.puszmonika.com](http://www.puszmonika.com/) 
 
 
 ## Acknowledgments
