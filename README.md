@@ -6,7 +6,7 @@ Signly is a desktop application written in Java language that can recognise and 
 
 ![Signly](https://github.com/MonikaCat/Signly/blob/master/photo/signly.png)
 
-## Getting Started
+## Tools used
 
 The application has been developed using the following tools: 
 
